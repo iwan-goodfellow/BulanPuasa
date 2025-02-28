@@ -75,9 +75,7 @@ $$
 Substitusi nilai $x$, $y$, dan $z$ dari kedua objek:
 
 $$
-\cos(\theta) = (\cos(\text{alt}_1) \cos(\text{az}_1)) (\cos(\text{alt}_2) \cos(\text{az}_2)) 
-+ (\cos(\text{alt}_1) \sin(\text{az}_1)) (\cos(\text{alt}_2) \sin(\text{az}_2))
-+ (\sin(\text{alt}_1) \sin(\text{alt}_2))
+\cos(\theta) = (\cos(\text{alt}_1) \cos(\text{az}_1)) (\cos(\text{alt}_2) \cos(\text{az}_2)) + (\cos(\text{alt}_1) \sin(\text{az}_1)) (\cos(\text{alt}_2) \sin(\text{az}_2)) + (\sin(\text{alt}_1) \sin(\text{alt}_2))
 $$
 
 Gunakan identitas trigonometri:
